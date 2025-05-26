@@ -15,7 +15,7 @@ Esta es una aplicación de chat en tiempo real desarrollada con **Spring Boot** 
 
 ## Tecnologías utilizadas
 
-- Java 11+
+- Java 24+
 - Spring Boot
 - Spring WebSocket
 - HTML, CSS y JavaScript para el frontend integrado
